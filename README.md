@@ -13,3 +13,11 @@ I'm aiming to create a knowledge base here for the rare ones out there devoting 
 * Clear implementation and style patterns
 * Balance performance with cleanliness
 
+## Patterns
+Some of the most common used js patterns, whether they are part of a framework, they are just used in builtin libraries or they are just used unintentionally, are: 
+* Model View Controller (MVC)
+* Model View VieModel (MVVM)
+* Model View Presenter (MVP)
+* Presentation Abstraction Control (PAC)
+* Event Driven Architecture (EDA)
+
