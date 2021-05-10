@@ -21,3 +21,10 @@ Some of the most common used js patterns, whether they are part of a framework, 
 * Presentation Abstraction Control (PAC)
 * Event Driven Architecture (EDA)
 
+## Abstractions
+Commons abstraction we can perform when working with the ui:
+* Rendering sections of the page
+* Updating objects with server data
+* Presentation data formating
+* Validations
+* Hanlding states
