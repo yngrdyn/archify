@@ -27,4 +27,4 @@ Commons abstraction we can perform when working with the ui:
 * Updating objects with server data
 * Presentation data formating
 * Validations
-* Hanlding states
+* Handling states
