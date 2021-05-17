@@ -20,7 +20,7 @@ Some of the most common used js patterns, whether they are part of a framework, 
 * Model View Presenter (MVP)
 * Presentation Abstraction Control (PAC)
 * Event Driven Architecture (EDA)
-* Componetization
+* [Component Based Development (CBD)](https://github.com/yngrdyn/archify/blob/main/CBD/CBD.md)
 
 ## Abstractions
 Commons abstraction we can perform when working with the ui:
